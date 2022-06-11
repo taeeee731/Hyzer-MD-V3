@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
-global.mods = [] 
+global.owner = ['6281386309925'] 
+global.mods = ['6281386309925'] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = '@亗ᴜʟᴛʀᴀᴍᴀɴ-Ᏼo͢Ꭲ友'
+global.numberowner = '6281386309925'
+global.instagram = 'https://instagram.com/ahmadtauf1k'
+global.github = 'https://github.com/taeeee731'
+global.dana = '6281386309925'
+global.pulsa = '6281386309925'
+global.gopay = '6281386309925'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
+global.namebot = '亗ᴜʟᴛʀᴀᴍᴀɴ-Ᏼo͢Ꭲ友'
 global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© 亗ᴜʟᴛʀᴀᴍᴀɴ-Ᏼo͢Ꭲ友'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
