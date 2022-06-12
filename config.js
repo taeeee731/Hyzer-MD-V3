@@ -4,7 +4,7 @@ global.mods = ['6281386309925']
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '@亗ᴜʟᴛʀᴀᴍᴀɴ-Ᏼo͢Ꭲ友'
+global.nameowner = '亗ᴜʟᴛʀᴀᴍᴀɴ-Ᏼo͢Ꭲ友'
 global.numberowner = '6281386309925'
 global.instagram = 'https://instagram.com/ahmadtauf1k'
 global.github = 'https://github.com/taeeee731'
@@ -15,7 +15,7 @@ global.gopay = '6281386309925'
 //=============『 Info Bot 』=================//
 global.namebot = '亗ᴜʟᴛʀᴀᴍᴀɴ-Ᏼo͢Ꭲ友'
 global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/ahmadtauf1k' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -31,7 +31,7 @@ global.htki = '––––––『'
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
+global.wait = '_*lagi di jalan tunggu ya...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
